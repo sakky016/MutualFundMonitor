@@ -63,6 +63,10 @@ def GetFundListToMonitor(file_path):
 # @returns                              : Nothing
 ######################################################################################################################
 def DownloadFundDetailsFile(url, file_path):
+    # Remove existing file first
+    if (os.path.isfile(file_path)):
+        os.remove(file_path)
+
     # create HTTP response object
     r = requests.get(url)
 
@@ -335,6 +339,9 @@ def CompareFunds(prevMonitoredFundDetails, currMonitoredFundDetails, status):
             print("| Percent change   : %f %%  %s" % (percentChangeInNav, indicator))
 
         index = index + 1
+
+    if (not isUpdateRequired):
+        status.append("No change in NAVs since last execution")
 
     return isUpdateRequired
 
