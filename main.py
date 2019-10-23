@@ -318,7 +318,7 @@ def CompareFunds(prevMonitoredFundDetails, currMonitoredFundDetails, status):
         indicator = ""
         currNav = float(currFund[NAV_INDEX])
         print("+------------------------------------------------------------------------------------+")
-        print("| %d) %s" % (index, currFund[SCHEME_NAME_INDEX]))
+        print("| %d) %s" % (index + 1, currFund[SCHEME_NAME_INDEX]))
         print("+------------------------------------------------------------------------------------+")
         print("| %-15s  : %f " % (currFund[DATE_INDEX], currNav))
 

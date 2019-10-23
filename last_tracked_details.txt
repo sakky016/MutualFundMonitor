@@ -1,10 +1,10 @@
 Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
-107249;INF090I01CN4;-;Franklin India Ultra Short Bond Fund - Super Institutional - Growth;27.5857;18-Oct-2019
-107745;INF209K01108;-;Aditya Birla Sun Life Tax Relief '96 - Growth Option;30.8;18-Oct-2019
-112323;INF846K01131;-;Axis Long Term Equity Fund - Growth;48.0012;18-Oct-2019
-112932;INF769K01101;-;Mirae Asset Emerging Bluechip Fund - Regular Plan - Growth Option;54.030;18-Oct-2019
-100473;INF090I01809;-;Franklin India Prima Fund-Growth;942.2267;18-Oct-2019
-129048;INF247L01478;-;Motilal Oswal Multicap 35 Fund (MOF35)-Regular Plan-Growth Option;26.7012;18-Oct-2019
-145208;INF277K015O2;-;Tata Small Cap Fund-Regular Plan-Growth;10.0903;18-Oct-2019
-102948;INF179K01AS4;-;HDFC Hybrid Equity Fund-Growth;53.494;18-Oct-2019
-145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;11.8593;18-Oct-2019
+107249;INF090I01CN4;-;Franklin India Ultra Short Bond Fund - Super Institutional - Growth;27.6143;22-Oct-2019
+107745;INF209K01108;-;Aditya Birla Sun Life Tax Relief '96 - Growth Option;30.86;22-Oct-2019
+112323;INF846K01131;-;Axis Long Term Equity Fund - Growth;48.1043;22-Oct-2019
+112932;INF769K01101;-;Mirae Asset Emerging Bluechip Fund - Regular Plan - Growth Option;54.148;22-Oct-2019
+100473;INF090I01809;-;Franklin India Prima Fund-Growth;940.8308;22-Oct-2019
+129048;INF247L01478;-;Motilal Oswal Multicap 35 Fund (MOF35)-Regular Plan-Growth Option;26.4795;22-Oct-2019
+145208;INF277K015O2;-;Tata Small Cap Fund-Regular Plan-Growth;10.1571;22-Oct-2019
+102948;INF179K01AS4;-;HDFC Hybrid Equity Fund-Growth;53.259;22-Oct-2019
+145551;INF247L01700;-;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;11.8341;22-Oct-2019
